@@ -5,10 +5,11 @@ github:hi Edith
 
 Edith: yes am fine master
 
-<<<<<<< HEAD
 Edith: how r u?
-=======
-github: i need your help
 
->>>>>>> f04e2bcba80a3268f420e9a9010e4e0a66ba1676
+github: i need your help
+Edith: am ready to do
+
+
+
 
